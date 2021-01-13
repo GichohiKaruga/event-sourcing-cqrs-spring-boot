@@ -1,1 +1,1 @@
-# event-sourcing-cqrs-spring-boot
+# Event Sourcing with CQRS using Spring Boot.
